@@ -9,7 +9,7 @@
         img{
             height:25vh;
             width:25vh;
-            opacity: 0.75;
+            opacity: 1;
         }
         .movieDetail{
             position: absolute;
